@@ -33,26 +33,3 @@ git clone Sainarendra21/Leap_year_checker_swing_app
 
 4. The application will display a message indicating whether the year is a leap year or not.
 
-## Contributing
-
-If you would like to contribute to this project, you can follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix.
-```
-git checkout -b feature/your-feature-name
-```
-
-3. Make your changes and commit them.
-```
-git commit -m "Add your commit message here"
-```
-
-4. Push your changes to your forked repository.
-```
-git push origin feature/your-feature-name
-```
-
-5. Create a pull request on the main repository, explaining your changes and their purpose.
-
